@@ -11,4 +11,3 @@ To execute the above file
     2. Open it with sqlite Workbench/ Notepad to make changes
     3. Run the commands on sqlite3 DB server
 ```
-
